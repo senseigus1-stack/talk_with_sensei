@@ -1,0 +1,6 @@
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/adapter_config.json
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/generation_config.json
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/special_tokens_map.json
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/tokenizer_config.json
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/adapter_model.safetensors
+https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora/resolve/main/tokenizer.model
